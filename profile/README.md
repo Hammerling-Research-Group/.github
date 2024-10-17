@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://ams.mines.edu/hammerling-research-group/">
-    <img src="https://github.com/Hammerling-Research-Group/.github/blob/main/profile/logo/hrg1.png" alt="HRG logo" width="200" height="165">
+    <img src="profile/logo/hrg1.png" alt="HRG logo" width="200" height="165">
   </a>
 </p>
 
