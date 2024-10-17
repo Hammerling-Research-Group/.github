@@ -1,14 +1,31 @@
-# Welcome to the Hammerling Research Group Development Site!
+# Welcome to the Hammerling Research Group!
 
-Thanks for visiting. We are based in the Department of Applied Mathematics and Statistics at the Colorado School of Mines in Golden, CO.
+<h1 align="center">Welcome to the <a href="https://ams.mines.edu/hammerling-research-group/">Hammerling Research Group</a>!</h1><br>
 
-This site is where we actively develop code relating to the research of the Hammerling Research Group. To learn more about our work, feel free to visit our [homepage](https://ams.mines.edu/hammerling-research-group/){:target="_blank"}, or click through any of our public repos.
+<p align="center">
+  <a href="https://ams.mines.edu/hammerling-research-group/">
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
+  </a>
+</p>
 
-Please reach out if you have any questions or want to learn more about contributing to our work or collaborating on anything related to what we do (or are doing).
+<p align="center">
+  Thanks for visiting our development site. We are based in the Department of Applied Mathematics and Statistics at the Colorado School of Mines in Golden, CO. This site is where we actively develop code relating to the research of the Hammerling Research Group.
+</p>
 
 <!--
 
 **Here are some ideas to get you started:**
+
+<p align="center">
+  <a href="https://getbootstrap.com/docs/">Bootstrap</a>
+  ·
+  <a href="https://icons.getbootstrap.com/">Bootstrap Icons</a>
+  ·
+  <a href="https://themes.getbootstrap.com/">Themes</a>
+  ·
+  <a href="https://blog.getbootstrap.com/">Blog</a>
+</p>
+
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
