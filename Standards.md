@@ -1,13 +1,33 @@
----
-title: "Standards for Collaborative Computing & Development"
-subtitle: |
-    | Hammerling Research Group
-    | Colorado School of Mines
-toc: true
-toc-depth: 4
-toc-title: "Contents"
----
- 
+# Standards for Collaborative Computing & Development
+## Hammerling Research Group
+## Colorado School of Mines
+
+# Contents
+- [Introductory Remarks & Mission](#introductory-remarks--mission)
+- [Philosophy Guiding Code Development](#philosophy-guiding-code-development)
+- [Collaborating on Code for Shared Research Goals](#collaborating-on-code-for-shared-research-goals)
+- [Practical Guidelines for Collaborative Development](#practical-guidelines-for-collaborative-development)
+  - [GitHub Workflow](#github-workflow)
+    - [Central Organization Structure](#central-organization-structure)
+    - [Branching Strategy](#branching-strategy)
+    - [Pull Requests (PRs)](#pull-requests-prs)
+    - [Direct Commits](#direct-commits)
+  - [Code Quality and Linting](#code-quality-and-linting)
+    - [Code Standards](#code-standards)
+    - [Testing](#testing)
+    - [Automated Linting and Continuous Integration (CI)](#automated-linting-and-continuous-integration-ci)
+    - [Human Peer Review](#human-peer-review)
+  - [Versioning and Documentation](#versioning-and-documentation)
+    - [Version Control](#version-control)
+    - [Documentation Standards](#documentation-standards)
+  - [Flexibility and Adaptability in Development](#flexibility-and-adaptability-in-development)
+    - [Allowing Exploration](#allowing-exploration)
+    - [Experimental Branches in Production Repos](#experimental-branches-in-production-repos)
+- [Best Practices for Distributed Work](#best-practices-for-distributed-work)
+  - [Regular Check-ins](#regular-check-ins)
+  - [Documentation for Remote Onboarding](#documentation-for-remote-onboarding)
+  - [Encouraging Contributions](#encouraging-contributions)
+
 ## Introductory Remarks & Mission
  
 This document sets out the standards for what it means to 1) be a team member in the *Hammerling Research Group*, and 2) develop and collaborate with and through research code at a minimum. Everything we do re: computing, research code and development flows from this guiding mission:
