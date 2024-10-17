@@ -10,6 +10,10 @@
   Thanks for visiting our development site. We are based in the Department of Applied Mathematics and Statistics at the Colorado School of Mines in Golden, CO. This site is where we actively develop code relating to the research of the Hammerling Research Group.
 </p>
 
+If you'd like to learn more about how and why we develop, start by checking out our [Standards of Development](https://github.com/Hammerling-Research-Group/.github/blob/01338522301ab2604fc11e95e9ef75cdde24752e/Standards.md). 
+
+If you'd like to contribute directly to our work, make sure you first agree to and abide by our [Code of Conduct](https://github.com/Hammerling-Research-Group/.github/blob/c2b84cdf1b723a4b23627b2aa59212aefd26b5cc/Code%20of%20Conduct.md). 
+
 <!--
 
 **Here are some ideas to get you started:**
