@@ -1,7 +1,7 @@
 # Standards for Collaborative Computing & Development
 ### Hammerling Research Group, Colorado School of Mines
 
-# Contents
+## Contents
 - [Introductory Remarks & Mission](#introductory-remarks--mission)
 - [Philosophy Guiding Code Development](#philosophy-guiding-code-development)
 - [Collaborating on Code for Shared Research Goals](#collaborating-on-code-for-shared-research-goals)
