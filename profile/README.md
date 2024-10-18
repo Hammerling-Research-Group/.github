@@ -6,9 +6,7 @@
   </a>
 </p>
 
-<p align="center">
-  Thanks for visiting our development site. We are based in the Department of Applied Mathematics and Statistics at the Colorado School of Mines in Golden, CO. This site is where we actively develop code relating to the research of the Hammerling Research Group.
-</p>
+Thanks for visiting our development site. We are based in the Department of Applied Mathematics and Statistics at the Colorado School of Mines in Golden, CO. This site is where we actively develop code relating to the research of the Hammerling Research Group.
 
 If you'd like to learn more about how and why we develop, start by checking out our [Standards of Development](https://github.com/Hammerling-Research-Group/.github/blob/01338522301ab2604fc11e95e9ef75cdde24752e/Standards.md). 
 
