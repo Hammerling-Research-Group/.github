@@ -20,6 +20,8 @@ When you're ready to start contributing, take a look at our *Getting Started* gu
 
   - [Getting Started with Pull Requests](https://github.com/Hammerling-Research-Group/.github/blob/8848c3869236473a0669ec75fcfd7c539440f640/guides/pull%20requests.md)
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHammerling-Research-Group&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FHammerling-Research-Group)
+
 <!--
 
 **Here are some ideas to get you started:**
